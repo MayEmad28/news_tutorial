@@ -6,7 +6,7 @@ class ListCategoryCard extends StatelessWidget {
   const ListCategoryCard({super.key});
   final List<Categorymodel> categories = const [
     Categorymodel(image: "assets/technology.jpeg", name: "Technology"),
-    Categorymodel(image: "assets/entertaiment.avif", name: "Entertaiment"),
+    Categorymodel(image: "assets/entertaiment.avif", name: "Entertainment"),
     Categorymodel(image: "assets/bu.jpg", name: "Business"),
     Categorymodel(image: "assets/health.avif", name: "Health"),
     Categorymodel(image: "assets/science.avif", name: "Science"),
